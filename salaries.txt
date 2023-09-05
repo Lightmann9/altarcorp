@@ -1,0 +1,4 @@
+1 Mr Kelvin 20000
+2 Miss Maria 42000
+3 Engr Bosun 7600000
+4 Dr Melone 72000
